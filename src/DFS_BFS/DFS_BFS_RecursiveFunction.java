@@ -1,3 +1,5 @@
+package DFS_BFS;
+
 public class DFS_BFS_RecursiveFunction {
     public static void recursive(int i){
         if(i == 100) return;

@@ -1,3 +1,5 @@
+package Materialization;
+
 import java.util.Scanner;
 
 public class Materialization03_Chess {

@@ -1,3 +1,5 @@
+package DFS_BFS;
+
 public class DFS_BFS_RecursiveFuction_Factorial {
     public static int factorialIterative(int n){
         int result = 1;

@@ -1,3 +1,5 @@
+package DFS_BFS;
+
 public class DFS_BFS_06 {
     public static Integer INF = 999999999;
     public static int[][] graph ={
